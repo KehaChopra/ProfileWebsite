@@ -1,0 +1,1 @@
+# This is my personal portfolio website designed to showcase who I am, what I’ve learned, and the projects I’ve worked on.The website is built using HTML and CSS, with a clean  layout. It’s a reflection of my journey as a Computer Engineering student who is continuously learning and growing in the tech field.
